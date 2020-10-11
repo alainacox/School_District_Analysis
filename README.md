@@ -29,7 +29,7 @@ Scores by school size
   The medium size schools went down by .064
   
  ![](https://github.com/alainacox/School_District_Analysis/blob/master/Resource/scores_schoolsize.jpg)
- 
+  
 Scores by school type
   The Charter school type went down by .040
   
